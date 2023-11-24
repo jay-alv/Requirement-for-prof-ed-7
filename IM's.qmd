@@ -1,0 +1,14 @@
+---
+title: "IM's (Factoring Polynomials)"
+author: "Jayson Alvarez"
+format: html
+editor: visual
+---
+
+# Grade 8: Module 1 (Factoring Polynomials)
+
+This module will help you break an expression into different factors and answer the topical question, "What algerbraic expressions can be factored?" Through factoring, we can rewrite the polynomials into simpler form.
+
+## A. Factoring Polynomials with Greatest Common Monomial Factor (GCMF)
+
+**Greatest Common Monomial Factor** is the highest possible value of a number, a variable, or a combination of numbers and variables which is common in each term of a given polynomial.
