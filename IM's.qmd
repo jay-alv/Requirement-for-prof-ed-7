@@ -11,4 +11,8 @@ This module will help you break an expression into different factors and answer 
 
 ## A. Factoring Polynomials with Greatest Common Monomial Factor (GCMF)
 
-**Greatest Common Monomial Factor** is the highest possible value of a number, a variable, or a combination of numbers and variables which is common in each term of a given polynomial.
+To further illustrate the concept of GCMF, try to explore the following examples:
+
+Example 1. Find GCF of each pair of monomials.
+
+a. 4
