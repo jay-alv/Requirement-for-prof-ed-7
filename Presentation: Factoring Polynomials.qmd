@@ -1,5 +1,5 @@
 ---
-title: "Presentation: Factoring Polynomials"
+title: "Factoring Polynomials"
 author: "Jayson Alvarez"
 format: pptx
 editor: visual
