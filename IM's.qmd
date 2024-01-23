@@ -13,6 +13,24 @@ This module will help you break an expression into different factors and answer 
 
 To further illustrate the concept of GCMF, try to explore the following examples:
 
-Example 1. Find GCF of each pair of monomials.
+Example 1. Find GCF of $4x^3$and $8x^2$.
 
-a. 4
+Solution:
+
+**Step 1. Factor each monomial.**
+
+$4x^3$ = 2 \* 2 \* x \* x \* x
+
+$8x^2$ = 2 \* 2 \* 2 \* x \* x
+
+**Step 2. Identify the common factors.**
+
+$4x^3$ = [*2*]{.underline} \* [*2*]{.underline} \* x \* [*x*]{.underline} \* [*x*]{.underline}
+
+$8x^2$= [*2*]{.underline} \* [*2*]{.underline} \* 2 \* [*x*]{.underline} \* [*x*]{.underline}
+
+**Step 3. Find the product of the common factors.**
+
+2 \* 2 \* x \* x = $4x^2$
+
+Hence, $4x^2$ is the GCMF of $4x^3$ and $8x^2$.

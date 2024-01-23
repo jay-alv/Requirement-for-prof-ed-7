@@ -1,0 +1,24 @@
+---
+title: "PowerPoint"
+author: "Jayson Alvarez"
+format: pptx
+editor: visual
+---
+
+# LESSON 1: POLICIES AND ISSUES ON INTERNET AND IMPLICATIONS TO TEACHING AND LEARNING
+
+## Definition of ICT Policy
+
+-ICT Policies are needed to put a roadmap or course of actions to be pursued and adopted by various governments, organizations, entities involving ICT.These include principles and guidelines in the use of ICT which cover three main areas: telecommunications (telephone), broadcasting (radio and television) and Internet.
+
+### The New ICT Technologies
+
+1.  Information Technology - includes the use of computers, which has become indispensable in modern societies to process data and save time and effort. What are needed will be computer hardware and peripherals, software and for the user, computer literacy.
+
+### The New ICT Technologies
+
+2.  Telecommunication technologies - include telephones (with fax) and the broadcasting of radio and television often through satellites. Telephone system, radio and TV broadcasting are needed in this category.
+
+### The New ICT Technologies
+
+3.  Networking technologies - The best known of networking technologies is Internet, but has extended to mobile phone technology, Voice Over Internet Protocol (VOIP) satellite communications and other forms of communications are still in their infancy. In addition to Internet, this category also includes mobile telephone, cable, DSL, satellite and other broadband connectivity.
