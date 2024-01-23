@@ -1,0 +1,36 @@
+---
+title: "Presentation: Factoring Polynomials"
+author: "Jayson Alvarez"
+format: pptx
+editor: visual
+---
+
+# Grade 8: Module 1 (Factoring Polynomials)
+
+This module will help you break an expression into different factors and answer the topical question, "What algebraic expressions can be factored?" Through factoring, we can rewrite the polynomials into simpler form.
+
+## Lesson 1: Factoring Polynomials with Greatest Common Monomial Factor (GCMF)
+
+To further illustrate the concept of GCMF, try to explore the following examples:
+
+Example 1. Find GCF of $4x^3$and $8x^2$.
+
+Solution:
+
+### Step 1. Factor each monomial.
+
+$4x^3$ = 2 \* 2 \* x \* x \* x
+
+$8x^2$ = 2 \* 2 \* 2 \* x \* x
+
+### Step 2. Identify the common factors.
+
+$4x^3$ = 2 \* 2 \* x \* x \* x
+
+$8x^2$= 2 \* 2 \* 2 \* x \* x
+
+### Step 3. Find the product of the common factor.
+
+2 \* 2 \* x \* x =$4x^2$
+
+Hence, $4x^2$ is the GCMF of $4x^3$ and $8x^2$.
